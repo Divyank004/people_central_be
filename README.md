@@ -1,6 +1,5 @@
 ## Description
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+NestJs based REST API server
 
 ## Project setup
 
